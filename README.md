@@ -1,1 +1,2 @@
-- 👋 Hi, I’m Mihir
+## 👋 Hi, I’m Mihir
+Frontend Engineer @CWB Team
